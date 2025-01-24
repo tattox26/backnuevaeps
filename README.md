@@ -1,13 +1,20 @@
 # PHP V8.2
+# BD
+
+Crear una base de datos llamada nuevaeps
+
 # Instalar paquetes
 
-## comandos
-composer install  
-nodejs install
+## paquetes 
+* composer install  
+* nodejs install
 
-# Luego
-php artisan serve
+# Luego comandos
+* php artisan migrate
+* php artisan serve
 
 # Luego
 Abrir en [http://localhost:8000]
+
+
 
